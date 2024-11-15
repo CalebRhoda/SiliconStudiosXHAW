@@ -1,3 +1,10 @@
+Members of Silicon Studios
+1. Siphosethu Mangali ST10457072 
+2. Shanton Johnson ST10436160
+3. Caleb Rhoda ST10435099
+4. Cianan Cassidy ST10434182
+5. Mihlali Sizani ST10438319
+
 For our assignment we have been tasked with the creation of a website and mobile app for the fictional organisation: Empower the Nation.
 
 Empower the nation is an organisation whose goal is to educate and upskill impoverished people on a budget, helping people make a living by making them more employable and 
